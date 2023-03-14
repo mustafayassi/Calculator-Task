@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application 3</string>
+    <string name="dicText">Decimal</string>
+    <string name="binaryText">Binary</string>
+    <string name="octalText">Octal</string>
+    <string name="hexadecimalText">Hexadecimal</string>
+    <string name="inputHint">Enter The Number</string>
+    <string name="titleText">convert Numbers</string>
+    <string name="buttonText">Clear</string>
+</resources>
